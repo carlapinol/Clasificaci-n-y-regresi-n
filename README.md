@@ -10,6 +10,8 @@ Cuando observamos la luz de una estrella a través de un prisma o un espectrógr
 
 La mayoría de las estrellas están actualmente clasificadas bajo el sistema de Morgan–Keenan (MK) que utiliza una letra y un número para designar cada tipo de estrella. Las letras van de O a M, siendo O las estrellas más calientes y M las más frías. Dentro de cada letra, hay subcategorías numéricas que indican con más detalle las características espectrales de la estrella. Además, en el sistema MK, se añade una clase de luminosidad a la clase espectral usando números romanos.
 
+![TP](./image/TP.png)
+
 Por ejemplo, una estrella de tipo espectral "O" es muy caliente y brillante, con un espectro dominado por líneas de hidrógeno ionizado y helio. Por otro lado, una estrella de tipo espectral "M" es más fría y tenue, con líneas de elementos como el calcio y el magnesio en su espectro.
 
 En resumen, la clasificación espectral de las estrellas es un sistema que nos permite organizar y entender mejor la diversidad de las estrellas en el universo, basándonos en las características de su luz y su composición química.
