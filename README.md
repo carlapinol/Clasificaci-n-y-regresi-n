@@ -24,3 +24,11 @@ Los objetivos que se plantean en este trabajo son los siguientes:
 * Aplicar técnicas de regresión para predecir el número dentro del tipo espectral de las estrellas utilizando otras características como entrada.
 
 * Evaluar la precisión de los modelos de regresión mediante métricas como el error cuadrático medio (MSE) o el coeficiente de determinación (R^2) y comparar su desempeño para identificar el modelo más adecuado para la variable a predecir.
+
+
+
+
+El dataset se ha obtenido de NASA Exoplanet Archive, se trata de un conjunto de datos que la comunidad de exoplanetas ha recopilado en varias listas de posibles objetivos para futuras misiones de imagen directa de exoplanetas.
+
+Enlace: https://exoplanetarchive.ipac.caltech.edu/cgi-bin/TblView/nph-tblView?app=ExoTbls&config=mission_exocat
+
